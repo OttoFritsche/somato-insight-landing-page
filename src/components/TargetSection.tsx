@@ -3,17 +3,20 @@ import React from 'react';
 
 const TargetSection = () => {
   const criteria = [
-    "Já tem formações ou atua com terapias, psicologia ou saúde emocional.",
-    "Sente que seus resultados com clientes não são consistentes.",
-    "Quer unir corpo, emoção e energia em uma abordagem única.",
-    "Está em busca de um método que realmente reorganize o sistema do cliente."
+    "Já fizeram diversas formações, mas ainda sentem os atendimentos fragmentados.",
+    "Têm dificuldade de saber qual técnica usar, e quando.",
+    "Percebem que o cliente melhora, mas volta ao ponto zero.",
+    "Desejam um método para aplicar atendimentos com segurança clínica real e parar de depender apenas da 'intuição solta'.",
+    "Buscam uma forma de atuar com intuição estruturada e objetiva.",
+    "Se frustram com a falta de clareza no início das sessões.",
+    "Sentem que usam abordagens erradas no momento errado."
   ];
 
   return (
     <section className="py-16 px-4 bg-white">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-12 text-center">
-          ✅ Essa triagem é para você se:
+          ✅ Esta Imersão é para Terapeutas que:
         </h2>
         
         <div className="space-y-4">

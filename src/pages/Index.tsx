@@ -4,6 +4,7 @@ import HeroSection from '../components/HeroSection';
 import ProblemSection from '../components/ProblemSection';
 import TriagemSection from '../components/TriagemSection';
 import TargetSection from '../components/TargetSection';
+import ImersaoStructureSection from '../components/ImersaoStructureSection';
 import TestimonialsSection from '../components/TestimonialsSection';
 import GuaranteeSection from '../components/GuaranteeSection';
 import FooterSection from '../components/FooterSection';
@@ -15,6 +16,7 @@ const Index = () => {
       <ProblemSection />
       <TriagemSection />
       <TargetSection />
+      <ImersaoStructureSection />
       <TestimonialsSection />
       <GuaranteeSection />
       <FooterSection />
